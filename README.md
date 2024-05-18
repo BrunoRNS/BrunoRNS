@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrunoRNS
-- 👀 I’m interested in Game Dev
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Free games
+- 💞️ I’m looking to collaborate on **free** games and game engines
 
 
 <!---
