@@ -21,7 +21,7 @@ My work reflects both **technical rigor** and **creative curiosity** — from bu
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 ## 🛠️ Tools & Technologies  
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,sass,git,github,linux,windows,ubuntu,terminal)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,sass,git,github,linux,windows,ubuntu,terminal,docker)](https://skillicons.dev)  
 
 
 ## 🌟 Fun Facts
