@@ -40,7 +40,9 @@ My work reflects both **technical rigor** and **creative curiosity** — from bu
 ## 🚀 Projects
 
 | [`SNES-IDE`](https://github.com/BrunoRNS/SNES-IDE) | Build SNES games using `pvsneslib` with ease | C, Python, Tkinter |
+
 | [`myPortfolio`](https://github.com/BrunoRNS/myPortfolio) | Personal site built with Django | Python, Django |
+
 | [`webScrapingDjango`](https://github.com/BrunoRNS/webScrapingDjango) | SPA web scraper using BeautifulSoup | Python, Django, bs4 |
 
 ---
