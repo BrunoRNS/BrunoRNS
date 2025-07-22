@@ -8,35 +8,6 @@ My work reflects both **technical rigor** and **creative curiosity** — from bu
 
 ---
 
-## 💬 About Me
-
-- 💻 Focused on backend and game development, and also in open-source tooling
-- 🧠 Strongest in **Java** and **Python**
-- ⚙️ Intermediate in **C**, **Julia**
-- 🎨 Frontend knowledge includes basic **HTML**, **CSS**, **JavaScript**, and **Sass**
-
----
-
-## 🧰 Tech Stack
-
-**Most proficient in:**  
-`Java` · `Python`
-
-**Comfortable with:**  
-`C` · `Julia`
-
-**Basic knowledge:**  
-`HTML` · `CSS` · `JavaScript` · `Sass/SCSS` · `Flask` · `Jupyter Notebooks`
-
-**Tools & Frameworks:**  
-`Spring Boot` · `Django` · `Docker` · `Podman` · `Gunicorn`  
-`Git` · `VS Code` · `Linux (Debian/Ubuntu)` · `Audacity`
-
-**Databases:**  
-`MySQL` · `PostgreSQL`
-
----
-
 ## 🚀 Projects
 
 | [`SNES-IDE`](https://github.com/BrunoRNS/SNES-IDE) | Build SNES games using `pvsneslib` with ease | C, Python, Tkinter |
@@ -50,16 +21,8 @@ My work reflects both **technical rigor** and **creative curiosity** — from bu
 ## 🌟 Fun Facts
 
 - 🎮 Lifelong fan of 90s games like Sonic & Mario — now building SNES tools!
-- 🎸 Mixes backend logic with musical composition
-- 🔄 Obsessed with clean, modular code, OOP, SOLID and automation
-
----
-
-## 📍 Location & Contact
-
-📍 Cascavel, Paraná, Brazil  
-📫 brunoriansouza@gmail.com  
-🌐 [GitHub Profile](https://github.com/BrunoRNS)
+- 🎸 Mixes backend logic with musical composition!
+- 🔄 Obsessed with clean, modular code, OOP, SOLID and automation!
 
 ---
 
