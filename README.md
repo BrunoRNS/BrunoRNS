@@ -8,15 +8,15 @@ My work reflects both **technical rigor** and **creative curiosity** — from bu
 
 ## My Skills
 
-### High level skills
+#### High level skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,django)](https://skillicons.dev) 
 
-### Confortable level skills
+#### Confortable level skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,julia,bash)](https://skillicons.dev) 
 
-### Basic level skills
+#### Basic level skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
