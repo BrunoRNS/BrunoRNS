@@ -62,4 +62,4 @@ public class BrunoRNS {
 
 ## Stats
 
-![Bruno RNS GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoRNS13&show_icons=true&theme=radical)  
+![Bruno RNS GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoRNS&show_icons=true&theme=radical)  
