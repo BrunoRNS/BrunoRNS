@@ -31,10 +31,10 @@ My work reflects both **technical rigor** and **creative curiosity** — from bu
 ```java
 public class BrunoRNS {
     final String name = "Bruno RNS";
-    final String strongest = "Java & Python";
-    final String intermediate = "C, Julia";
-    final String basics = "HTML, CSS, JS, Sass";
-    final String inLoveWith = "SNES game development";
+    String strongest = "Java & Python";
+    String intermediate = "C, Julia";
+    String basics = "HTML, CSS, JS, Sass";
+    String inLoveWith = "SNES game development";
     final String hometown = "Cascavel, PR - Brazil";
 
     public void introduce() {
