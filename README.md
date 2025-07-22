@@ -6,17 +6,23 @@ I'm **Bruno RNS**, a software developer and student from **Cascavel, PR – Braz
 
 My work reflects both **technical rigor** and **creative curiosity** — from building backend systems and tooling to composing guitar riffs and tinkering with SNES development.
 
----
+## My Skills
 
-## 🚀 Projects
+### High level skills
 
-| [`SNES-IDE`](https://github.com/BrunoRNS/SNES-IDE) | Build SNES games using `pvsneslib` with ease | C, Python, Tkinter |
+[![My Skills](https://skillicons.dev/icons?i=java,python,django)](https://skillicons.dev) 
 
-| [`myPortfolio`](https://github.com/BrunoRNS/myPortfolio) | Personal site built with Django | Python, Django |
+### Confortable level skills
 
-| [`webScrapingDjango`](https://github.com/BrunoRNS/webScrapingDjango) | SPA web scraper using BeautifulSoup | Python, Django, bs4 |
+[![My Skills](https://skillicons.dev/icons?i=c,julia)](https://skillicons.dev) 
 
----
+### Basic level skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+
+## 🛠️ Tools & Technologies  
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,bootstrap,git,github)](https://skillicons.dev)  
+
 
 ## 🌟 Fun Facts
 
@@ -24,9 +30,7 @@ My work reflects both **technical rigor** and **creative curiosity** — from bu
 - 🎸 Mixes backend logic with musical composition!
 - 🔄 Obsessed with clean, modular code, OOP, SOLID and automation!
 
----
-
-## ☕ @me
+## ☕ My class in java
 
 ```java
 public class BrunoRNS {
@@ -49,3 +53,13 @@ public class BrunoRNS {
         new BrunoRNS().introduce();
     }
 }
+```
+
+## 📫 Contact  
+
+[![Gmail Badge](https://img.shields.io/badge/-brunoriansouza@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoriansouza@gmail.com)](mailto:brunoriansouza@gmail.com)  
+
+
+## Stats
+
+![Bruno RNS GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoRNS13&show_icons=true&theme=radical)  
