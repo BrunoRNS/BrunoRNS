@@ -14,11 +14,11 @@ My work reflects both **technical rigor** and **creative curiosity** — from bu
 
 #### Confortable level skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,julia,bash)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,bash)](https://skillicons.dev) 
 
 #### Basic level skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,julia)](https://skillicons.dev)
 
 ## 🛠️ Tools & Technologies  
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,sass,git,github,linux,windows,ubuntu,docker)](https://skillicons.dev)  
@@ -36,8 +36,8 @@ My work reflects both **technical rigor** and **creative curiosity** — from bu
 public class BrunoRNS {
     final String name = "Bruno RNS";
     String strongest = "Java & Python";
-    String intermediate = "C, Julia and Bash";
-    String basics = "HTML, CSS, JS, Sass";
+    String intermediate = "C and Bash";
+    String basics = "HTML, CSS, JS, Sass and Julia";
     String inLoveWith = "SNES game development";
     final String hometown = "Cascavel, PR - Brazil";
 
