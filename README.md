@@ -62,4 +62,10 @@ public class BrunoRNS {
 
 ## Stats
 
-![Bruno RNS GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoRNS&show_icons=true&theme=radical)  
+![Bruno RNS GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoRNS&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRNS&theme=merko&layout=compact&langs_count=6)
+
+![Awards](https://github-profile-trophy.vercel.app/?username=BrunoRNS&theme=onestar&row=2&column=3&margin-w=15)
+
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoRNS&theme=merko)
